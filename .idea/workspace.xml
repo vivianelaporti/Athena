@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4173d44e-5733-41e3-b935-b4a6d10b6ba8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Athena" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XxiPWL2uuY7w6N3Uncj7qfGhkD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Application" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Athena" type="Python.FlaskServer">
+      <module name="Athena" />
+      <option name="target" value="C:\Users\vivia\OneDrive\Documentos\Desenvolvimento\AthenaGcS\Athena\app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4173d44e-5733-41e3-b935-b4a6d10b6ba8" name="Default Changelist" comment="" />
+      <created>1581994123025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581994123025</updated>
+      <workItem from="1581994136675" duration="5262000" />
+      <workItem from="1582029201797" duration="707000" />
+      <workItem from="1582030373703" duration="4134000" />
+      <workItem from="1582062931660" duration="3437000" />
+      <workItem from="1582066751753" duration="1631000" />
+      <workItem from="1582068757557" duration="4677000" />
+      <workItem from="1582074960472" duration="1603000" />
+      <workItem from="1582076721050" duration="20531000" />
+      <workItem from="1582157828658" duration="8114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="0" key="#Athena" timestamp="1582131394861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="0" key="#Athena/0.0.1280.680@0.0.1280.680" timestamp="1582131394861" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582131565120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582131565120" />
+    <state x="375" y="102" key="EnvironmentVariablesDialog" timestamp="1582083834290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="102" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582083834290" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1582131549251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582131549251" />
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom" timestamp="1582160537070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582160537070" />
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582000850531" />
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1581997440525" />
+    <state width="1237" height="147" key="GridCell.Tab.0.center" timestamp="1582160537069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582160537069" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1582000850531" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1581997440524" />
+    <state width="1237" height="147" key="GridCell.Tab.0.left" timestamp="1582160537069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582160537069" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1582000850531" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1581997440524" />
+    <state width="1237" height="147" key="GridCell.Tab.0.right" timestamp="1582160537070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582160537070" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1582000850531" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1581997440525" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom" timestamp="1582000850533">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582000850533" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1581997440451" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center" timestamp="1582000850533">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1582000850533" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1581997440450" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left" timestamp="1582000850532">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1582000850532" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1581997440450" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right" timestamp="1582000850533">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1582000850533" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1581997440450" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582076035792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582076035792" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1582157834518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582157834518" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Athena$Athena.coverage" NAME="Athena Coverage Results" MODIFIED="1582160537050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
