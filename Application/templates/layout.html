@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }} - Athena </title>
-    <link rel="stylesheet" type="text/css" href="/Application/static/content/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="/Application/static/content/site.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'content/bootstrap.css' ) }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'content/bootstrap.css' ) }}" />
     <script src="/Application/static/scripts/modernizr-2.6.2.js"></script>
 </head>
 
@@ -19,7 +19,7 @@
     <div class="container">
         <div>
             <ul class="menu">
-                  <li><a href="{{url_for(static, filename='templates/lstHistorias.html')}}"> Lista de Histórias de Pacientes </a></li>
+                  <li><a href="{{ url_for( 'lstHistorias' ) }} "> Lista de Histórias de Pacientes </a></li>
             </ul>
         </div>
 
