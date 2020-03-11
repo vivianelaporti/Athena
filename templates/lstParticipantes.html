@@ -1,0 +1,11 @@
+{% block scripts %}
+    <div class="listaparticipantes">
+        <h3>Participantes da História</h3>
+
+    <ul>
+    {% for nome in context['listap'] %}
+        <li>{{ nome }}</li>
+    {% endfor %}
+    </ul>
+    </div>
+{% endblock %}

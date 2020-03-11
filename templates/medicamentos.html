@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block scripts %}
+
+         <div class="Medicamentos">
+          <form>
+             <p>Medicamentos administrados com o paciente</p>
+             <p>Nome do Medicamento <input class="nmMedicamento"> </p>
+             <p>Em uso no momento deste tratamento ? <input type="checkbox" id="usomedicam" name="medicamento1" value="Sim"> Sim
+                 <input type="checkbox" id="usomedicam2" name="medicamento2" value="Não">Não </p>
+             <p>Frequência de uso <input class="frequso"> </p>
+             <p> <button class="btCadastrar" >Cadastrar</button>
+                <button class="btCancelar">Cancelar</button> </p>
+            </form>
+         </div>
+
+{% endblock %}

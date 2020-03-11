@@ -1,0 +1,11 @@
+{% block scripts %}
+    <div class="listahistorias">
+        <h1>Lista de Histórias Cadastradas</h1>
+
+    <ul>
+    {% for nome in context['lista'] %}
+        <li>{{ nome }}</li>
+    {% endfor %}
+    </ul>
+    </div>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block scripts %}
+    <div class="historia">
+        <h1>Relato da História atual</h1>
+        <form>
+           <p>Título: <br> <input class="inEmail"> </p>
+           <p>História do Paciente: <br> <input class="inEmail"> </p>
+            <p>Login paciente: <br> <input class="inEmail"> </p>
+
+            <p>Quadro clínico: <br> <textarea class="inqdclin" cols="50"></textarea> </p>
+              <p>Data de Criação <br> <select class="inCID"> </p>
+
+           </form>
+    </div>
+
+    {% include 'pagParticipante.html' %}
+
+{% endblock %}

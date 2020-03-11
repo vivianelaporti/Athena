@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block scripts %}
+
+    <div class="home">
+        <h2>Index</h2>
+        <p>index</p>
+    </div>
+
+        <div class="listaHistoriasAtivas" >
+        <h2> Histórias Ativas</h2>
+
+        <ul> {% for nome in context['lista'] %}
+            <li>{{ nome }}</li>
+        {% endfor %}
+    </ul>
+   </div>
+
+  {% endblock %}

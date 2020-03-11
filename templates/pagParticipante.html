@@ -1,0 +1,16 @@
+{% block scripts %}
+
+         <div class="CadastroParticipante">
+          <form>
+              <p>É necessário vincular os participantes à História:</p>
+              <p>Login Participante <select id="logparticipante"></select> </p>
+              <p>Perfil <select id="perfilparticipante"></select> </p>
+              <p>Papel no Tratamento <select id="papelparticipante"> </select> </p>
+             <p> <button class="btVincularPartic" >Vincular</button>
+                <button class="btCancelar">Cancelar</button> </p>
+            </form>
+            <p> Caso o paciente ou algum participante ainda não esteja cadastrado, clique <a href="{{ url_for('cadusuario' ) }} " > aqui </a></li>
+
+         </div>
+
+{% endblock %}

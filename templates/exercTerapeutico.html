@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block scripts %}
+
+         <div class="Exercícios Terapeuticos">
+          <form>
+             <p>Exercícios Terapêuticos realizados com o paciente durante o tratamento</p>
+             <p>Nome do Exercício <input class="nmExercTer"> </p>
+             <p>Sendo realizado no momento deste tratamento ? <input type="checkbox" id="ExercTers" name="ExercTers" value="Sim"> Sim
+                 <input type="checkbox" id="ExercTerN" name="ExercTern" value="Não">Não </p>
+             <p>Frequência de uso <input class="frequso"> </p>
+             <p> <button class="btCadastrar" >Cadastrar</button>
+                <button class="btCancelar">Cancelar</button> </p>
+            </form>
+         </div>
+
+{% endblock %}
